@@ -30,7 +30,7 @@ HTML 4.01 = XHTML 1.0
 
 
 head, body
-
+o
 <head> : 눈에 보이지 않는 문서의 정보를 나타냄
          head태그의 첫번째 태그는 꼭 <meta charset="UTF-8"> 을 작성하여 인코딩에 신경쓰기
 
